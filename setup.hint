@@ -1,4 +1,4 @@
 category: X11
-requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
-sdesc: "Xorg miscellaneous fonts"
-ldesc: "Xorg miscellaneous fonts"
+requires: mkfontdir mkfontscale fontconfig font-encodings font-alias
+sdesc: "X.Org miscellaneous fonts"
+ldesc: "X.Org miscellaneous fonts"
